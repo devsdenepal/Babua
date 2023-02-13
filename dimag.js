@@ -104,3 +104,4 @@ var a=document.createElement("p");
 },2000)
 }
 }
+// js from web
